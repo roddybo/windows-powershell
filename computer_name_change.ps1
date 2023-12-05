@@ -1,2 +1,2 @@
-Rename-Computer -NewName "windows crashtest dummy" -Restart
+Rename-Computer -NewName "crashtest1" -Restart
 
